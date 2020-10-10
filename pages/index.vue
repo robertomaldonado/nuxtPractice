@@ -2,8 +2,9 @@
   <div class="container">
     <div>
       <button
-        @click="$router.push('/products')">
-          Products
+        @click="$router.push('/users')"
+      >
+          GO TO USER SELECTION
       </button>
     </div>
   </div>
