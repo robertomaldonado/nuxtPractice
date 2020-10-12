@@ -22,7 +22,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: grey;
+    background: lightgrey;
   }
   .nav-bar{
     list-style: none;
