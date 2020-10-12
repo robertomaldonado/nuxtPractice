@@ -10,6 +10,7 @@
 export default {
   validate (data){
     return /^\d+$/.test(data.params.id) //Test for numbers only
-  }
+  },
+  layout: 'users_layout'
 }
 </script>
